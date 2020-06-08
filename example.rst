@@ -11,7 +11,7 @@ of the subtitle itself, just like titles.
 灯光控制
 -----------------
 
-OBS的使用
+多镜头的使用
 -----------------
 
 Lists can be unnumbered like:
