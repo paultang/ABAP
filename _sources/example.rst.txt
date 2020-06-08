@@ -8,6 +8,12 @@ is at least the same length of the title itself.
 Subtitles are set with '-' and are required to have the same length
 of the subtitle itself, just like titles.
 
+灯光控制
+-----------------
+
+OBS的使用
+-----------------
+
 Lists can be unnumbered like:
 
  * Item Foo
