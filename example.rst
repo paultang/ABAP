@@ -16,8 +16,8 @@ of the subtitle itself, just like titles.
 
 Lists can be unnumbered like:
 
- * Item Foo
- * Item Bar
+ * 场景切换
+ * 固定镜头
 
 Or automatically numbered:
 
