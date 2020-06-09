@@ -8,7 +8,7 @@ As Better As Possible
 
 .. toctree::
    :maxdepth: 2
-   :caption: 爱比爱拼:
+   :caption: 爱比爱拼
    
    video
    photo
