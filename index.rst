@@ -3,19 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-As Better As Possible 
+爱比爱拼 As Better As Possible 
 =================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: 爱比爱拼
    
+   market
    video
    photo
    device
    file
-   example
-   test
    support
    
    
