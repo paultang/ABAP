@@ -1,9 +1,9 @@
-影像的力量
+影像营销
 ===============
 That has a paragraph about a main subject and is set when the '='
 is at least the same length of the title itself.
 
-市场营销
+直播
 ----------------
 Subtitles are set with '-' and are required to have the same length
 of the subtitle itself, just like titles.
