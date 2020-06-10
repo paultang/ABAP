@@ -4,17 +4,15 @@
    contain the root `toctree` directive.
 
 爱比爱拼 As Better As Possible 
-=================================================
+=============================
 
 .. toctree::
    :maxdepth: 2
    :caption: 爱比爱拼
    
-   market
-   video
-   photo
-   device
-   file
+   marketing
+   studio
+   school
    support
    
    
