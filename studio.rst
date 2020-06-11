@@ -22,4 +22,4 @@
 * 群晖图片视频存储系统
 * 中央控制WEB系统
 
-.. image:: photo/quihui.png
+.. image:: photo/qunhui.png
