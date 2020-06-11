@@ -9,9 +9,8 @@
 .. toctree::
    :maxdepth: 2
    
-   marketing
+   lighting
    studio
-   school
    support
    
    
