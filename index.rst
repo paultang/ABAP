@@ -12,4 +12,6 @@
    lighting
    studio
    support
+   test
+   test2
    
